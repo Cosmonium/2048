@@ -6,6 +6,7 @@ tileWidth=100
 num=4
 
 print("hello")
+print("hello")
 
 win=GraphWin("2048", tileWidth*num+gapWidth*(num+1),tileWidth*num+gapWidth*(num+1))
 
